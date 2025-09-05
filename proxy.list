@@ -36,7 +36,7 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
 # > Douyin
 DOMAIN-SUFFIX, amemv.com
-DOMAIN-SUFFIX, douyinvod.com
+DOMAIN-SUFFIX, snssdk.com
 # > Line
 DOMAIN-SUFFIX,line.me
 DOMAIN-SUFFIX,line-apps.com
