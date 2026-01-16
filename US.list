@@ -255,8 +255,7 @@ DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
-# > Apple
-DOMAIN,testflight.apple.com
+
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,tumblr.com
@@ -267,9 +266,7 @@ DOMAIN-SUFFIX,bloomberg.cn
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,bloomberg.de
 DOMAIN-SUFFIX,bloombergview.com
-# > Cloudflare
-DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,workers.dev
+
 # > Clubhouse
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
@@ -332,9 +329,7 @@ DOMAIN,assets2.xboxlive.com
 DOMAIN,az416426.vo.msecnd.net
 DOMAIN,az668014.vo.msecnd.net
 DOMAIN,github.global.ssl.fastly.net
-# > OpenAI
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,openai.com
+
 # > Pinterest
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-KEYWORD,.pinterest.
@@ -431,37 +426,11 @@ DOMAIN,wego.here.com
 # > Alphabet
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
-# ---(Apple)---
-#DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
-#DOMAIN-SUFFIX,smoot.apple.com // Spotlight
-DOMAIN,amp-api.podcasts.apple.com // Podcasts
-#DOMAIN,beta.music.apple.com // Apple Music Web
-#DOMAIN,books.itunes.apple.com // iBooks Store download
-#DOMAIN,facetime.apple.com // FaceTime Links
-#DOMAIN,lookup-api.apple.com // Look Up
-#DOMAIN,radio.itunes.apple.com // Apple Music Radio
-DOMAIN,apple-relay.apple.com // Apple Intelligence
-DOMAIN,apple-relay.cloudflare.com
-DOMAIN,apple-relay.fastly-edge.com
-DOMAIN,cp4.cloudflare.com
+
 # > Mi
 DOMAIN,c.mi.com
 DOMAIN,new.c.mi.com
-# > Web Preview
-#DOMAIN,apps.apple.com
-#DOMAIN,books.apple.com
-#DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
-# > News
-#DOMAIN,gateway.icloud.com
-#DOMAIN-SUFFIX,apple.news
-#DOMAIN,news-assets.apple.com
-#DOMAIN,news-client.apple.com
-#DOMAIN,news-client-search.apple.com
-#DOMAIN,news-edge.apple.com
-#DOMAIN,news-events.apple.com
-#DOMAIN,apple.comscoreresearch.com
-# ------
+
 # > Microsoft
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,linkedin.com
